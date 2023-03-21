@@ -1,10 +1,10 @@
 # COS2614 - Programming: Contemporary concepts
 
-Welcome to the COS2614 organization on GitHub! This organization is aimed at university students studying "COS2614: Programming: Contemporary concepts" and is dedicated to helping students learn C++ and the Qt framework.
+Welcome to the COS2614 organization on GitHub! This organization is aimed at university students studying **COS2614: Programming: Contemporary concepts** and is dedicated to helping students learn C++ and the Qt framework.
 
 The purpose of this organization is to encourage student participation and facilitate learning by providing a platform where students can access various resources, including code examples, solutions to programming challenges, and discussion forums where they can seek and provide help. 
 
-Most of the code examples provided in this organization are based on the book "An Introduction to Design Patterns in C++ with Qt, 2nd Edition" by Alan Ezust and Paul Ezust. We have attempted to port the code written for Qt4 to Qt6, so students can practice coding in a more recent version of Qt.
+Most of the code examples provided in this organization are based on the book [An Introduction to Design Patterns in C++ with Qt, 2nd Edition](https://www.oreilly.com/library/view/introduction-to-design/9780132851619/) by Alan Ezust and Paul Ezust. We have attempted to port the code written for Qt4 to Qt6, so students can practice coding in a more recent version of Qt.
 
 ## First off
 This organization is run by students and it is a work in progress (as of March 2023). The *study objectives* for this organization are listed below. Contributions to this organization will be made over time, so check back for updates.
