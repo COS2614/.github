@@ -30,7 +30,7 @@ We would like to acknowledge Alan Ezust and Paul Ezust for their book "An Introd
 
 If you have any questions or feedback, please feel free to contact us through the discussion forums or by emailing us at [tide.mute_06@icloud.com] We look forward to hearing from you and hope that you find this repository helpful in your studies of C++ and the Qt framework.
 
-## COS2614 Objectives
+## Study Objectives
 
 ### Chapter 1: Introduction to C++
 - Write simple Qt programs that uses QTextStream, QString and QFile. 
