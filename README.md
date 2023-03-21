@@ -1,4 +1,4 @@
-# COS2614 Organization
+# COS2614 - Programming: Contemporary concepts
 
 Welcome to the COS2614 organization on GitHub! This organization is aimed at university students studying "COS2614: Programming: Contemporary concepts" and is dedicated to helping students learn C++ and the Qt framework.
 
